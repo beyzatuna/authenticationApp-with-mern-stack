@@ -5,13 +5,14 @@ This project is a simple authentication application using React and Node.js. Use
 ## Screenshots
 
 ### Login Page
-![Login Page](./client/src/assets/login.png)
+<img src="https://github.com/beyzatuna/authenticationApp-with-mern-stack/assets/54098270/16733c6b-f9cc-4386-84bb-d27b7f41e102" alt="login" width="400" />
 
 ### Register Page
-![Register Page](./assets/register.png)
+<img src="https://github.com/beyzatuna/authenticationApp-with-mern-stack/assets/54098270/dc0cc8f1-0d28-4f0e-8de4-2a35209e9550" alt="register" width="400" />
 
 ### User Dashboard
-![User Dashboard](./assets/dashboard.png)
+<img src="https://github.com/beyzatuna/authenticationApp-with-mern-stack/assets/54098270/80007d4c-6516-4234-a680-c302352e4cae" alt="dashboard" width="400" />
+
 
 ## Requirements
 
