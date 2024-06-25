@@ -5,7 +5,7 @@ This project is a simple authentication application using React and Node.js. Use
 ## Screenshots
 
 ### Login Page
-![Login Page](./assets/login.png)
+![Login Page](./client/src/assets/login.png)
 
 ### Register Page
 ![Register Page](./assets/register.png)
