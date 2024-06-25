@@ -23,7 +23,7 @@ This project is a simple authentication application using React and Node.js. Use
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your_username/react-auth-app.git
+    git clone https://github.com/beyzatuna/authenticationApp-with-mern-stack.git 
     cd react-auth-app
     ```
 
